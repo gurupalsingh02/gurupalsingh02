@@ -68,11 +68,11 @@ Flutter, Dart, Firebase , Node.js ,problem solving, competitive programming, Dat
   </ul>
 </body>
 </html> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,mysql,dart,firebase,java,python,c,flask,cpp,androidstudio,go,javascript,html,nodejs,mongodb,tensorflow,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=flutter,mysql,dart,firebase,java,python,c,cpp,javascript,html,nodejs,mongodb,googlecloud" />
   </a>
-</p>
+</p> -->
 <!--
 **gurupalsingh02/gurupalsingh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
