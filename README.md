@@ -1,20 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=5000&width=500&lines=Hi%F0%9F%91%8B%2C+I'm+Gurupal+Singh!)](https://git.io/typing-svg)
 ---
-<!--
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=react)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=dark)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=radical)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=merko)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=gruvbox)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=tokyonight)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=onedark)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=cobalt)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=synthwave)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=highcontrast)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=dracula)
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=react)
--->
-(https://github-readme-stats.vercel.app/api?username=gurupalsingh02&show_icons=true&theme=dracula)
+
 ## 🚀 About Me
 Pre-final year CSE Student at IIIT Vadodara ICD'24. I'm a coding enthusiast and loves full stack App Development in Flutter. I enjoy developing Flutter apps and solving problems on leetcode.
 
