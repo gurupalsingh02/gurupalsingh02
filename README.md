@@ -4,9 +4,9 @@
 ## 🚀 About Me
 Pre-final year CSE Student at IIIT Vadodara ICD'24. I'm a coding enthusiast and loves full stack App Development in Flutter. I enjoy developing Flutter apps and solving problems on leetcode.
 
-LeetCode rating - 1701 (In top 12.21 percent worldwide.)
+LeetCode rating - 1885 (In top 4.89 percent worldwide.)
 
-LeetCode best ranks - 2734,2458,3138,3208 out of avg 20k particiapants.
+LeetCode best ranks - 355 ,1013 ,1157 ,1322 out of 20000 participants.
 
 Solved 600+ questions on Data Structure and Algorithms on multiple platforms.
 
